@@ -1,0 +1,25 @@
+1) Understand the req/design
+2) Create test cases  ( Technical design & swagger)
+3) Created workspace & collection
+4) Added requests along with validations/varaibles etc...
+5) Run/Executed 
+	- within Postman( Using collection runner)
+	- using newman CLI
+		1) Command prompt
+		2) Push to git/GitHub
+		3) Run in Jenkins
+	- using postman CLI
+		1) command prompt ( Postman API key, collection ID)
+		2) Run the collection in Jenkins (pipeline)
+		3) Build pipeline
+
+6) Documentation
+	Generate document
+	Publish the document
+
+
+static document   - word, excel, notepad....   
+interactive document  - swagger  ---> database
+
+cuRL   ----> We can run the requests directly in command prompt.
+we can import in postman tool.
